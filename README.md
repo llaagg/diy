@@ -8,7 +8,8 @@
   * https://centrum.meble.pl/rozkroj,sklejka
 * 6.7
   * https://www.leroymerlin.pl/konstrukcje-drewniane-i-metalowe/deski-plyty-wykonczeniowe-listwy/sklejka/sklejka-drewniana-wodoodporna-6-5-mm-250-x-125-cm-biuro-styl,p37505,l1902.html
-  
+  * https://allegro.pl/oferta/profil-typu-casemaker-20x20x1-5-penn-elcom-0152-9451287295
+    20 x 20 x (1m/2m)
 
 * 4mm
   * https://allegro.pl/oferta/profil-alu-do-skrzyn-do-materialu-4-mm-6136-ah-9463082291 4mm
