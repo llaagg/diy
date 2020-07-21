@@ -10,6 +10,8 @@
   * https://www.leroymerlin.pl/konstrukcje-drewniane-i-metalowe/deski-plyty-wykonczeniowe-listwy/sklejka/sklejka-drewniana-wodoodporna-6-5-mm-250-x-125-cm-biuro-styl,p37505,l1902.html
   * https://allegro.pl/oferta/profil-typu-casemaker-20x20x1-5-penn-elcom-0152-9451287295
     20 x 20 x (1m/2m)
+  * https://allegro.pl/oferta/naroze-kulowe-c1345z-penn-elcom-8571269016
+  * https://allegro.pl/oferta/naroznik-kulowy-maly-stal-c1345-00-penn-elcom-9439268123
   * Docs 
     * [Specs Penn elcom](https://www.penn-elcom.com/pdf/Catalogue_EuropeEdition_2019.pdf)
 * 4mm
