@@ -8,3 +8,4 @@
   other options: https://www.adamhall.com/shop/aw-en/flight-case-material/extrusions/casemaker/
   
 * https://centrum.meble.pl/rozkroj,sklejka
+* https://www.leroymerlin.pl/konstrukcje-drewniane-i-metalowe/deski-plyty-wykonczeniowe-listwy/sklejka/sklejka-drewniana-wodoodporna-4-mm-250-x-125-cm-biuro-styl,p15931,l1902.html
