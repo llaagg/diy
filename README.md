@@ -21,7 +21,12 @@
   * https://www.leroymerlin.pl/konstrukcje-drewniane-i-metalowe/deski-plyty-wykonczeniowe-listwy/sklejka/sklejka-drewniana-wodoodporna-4-mm-250-x-125-cm-biuro-styl,p15931,l1902.html
 
 
-## server
+### server
  * https://allegro.pl/oferta/uchwyt-szyna-din-ts-raspberry-pi2-pi3-3b-4-komplet-8921662153
  * https://allegro.pl/oferta/szyna-montazowa-din-th-35-listwa-perforowana-0-5m-9150343170
 other options: https://www.adamhall.com/shop/aw-en/flight-case-material/extrusions/casemaker/
+
+## Słuchawki
+* Paramtry techniczne
+ * [Słuchaj odpowiedzialnie](https://sennheiser.pl/sluchaj-odpowiedzialnie)
+ * 100db 
